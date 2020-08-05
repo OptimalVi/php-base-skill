@@ -2,8 +2,10 @@
 для POST запросов POSTMAN и инструменты браузера
 
 Configs for DB Core/Config.php<br>
+
 PHP7.2-fpm
 
+assets for forntend App/Views/layout/asssets
 ## php_ini
 short_open_tag = on
 <br>
