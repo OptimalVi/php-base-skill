@@ -1,6 +1,11 @@
-Configs for DB Core/Config.php
-PHP7.2
+Для тестирования PHP использовал инструменты языка (display_error)<br>
+для POST запросов POSTMAN и инструменты браузера
+
+Configs for DB Core/Config.php<br>
+PHP7.2-fpm
+
 ## php_ini
 short_open_tag = on
-others defaullt
+<br>
+Остальные параметры не менялись
 
