@@ -1,4 +1,6 @@
-Для тестирования PHP использовал инструменты языка (display_error)<br>
+# Выполнение тестового задания на старте
+В данном проекте произведен рефактор с учетом развития скилов.
+
 для POST запросов POSTMAN и инструменты браузера
 
 Configs for DB Core/Config.php<br>
@@ -10,4 +12,3 @@ assets for frontend App/Views/layout/asssets
 short_open_tag = on
 <br>
 Остальные параметры не менялись
-
